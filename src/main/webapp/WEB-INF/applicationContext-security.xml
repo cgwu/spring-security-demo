@@ -22,7 +22,6 @@
 			username-parameter="username" password-parameter="password"
 			authentication-failure-url="/custom_login?login_error"
 		/>
-		
 	</security:http>
 	
 	<security:authentication-manager>
